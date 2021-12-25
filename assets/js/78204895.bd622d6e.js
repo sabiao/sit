@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsit=self.webpackChunkwebsit||[]).push([[973],{2504:function(s){s.exports=JSON.parse('{"allTagsPath":"https://sabiao.github.io/sit/blog/tags","slug":"https://sabiao.github.io/sit/blog/tags/facebook","name":"facebook","count":1,"permalink":"https://sabiao.github.io/sit/blog/tags/facebook"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsit=self.webpackChunkwebsit||[]).push([[822],{5198:function(s){s.exports=JSON.parse('{"allTagsPath":"https://sabiao.github.io/sit/blog/tags","slug":"https://sabiao.github.io/sit/blog/tags/hello","name":"hello","count":2,"permalink":"https://sabiao.github.io/sit/blog/tags/hello"}')}}]);

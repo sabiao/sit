@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsit=self.webpackChunkwebsit||[]).push([[325],{5071:function(s){s.exports=JSON.parse('{"allTagsPath":"https://sabiao.github.io/sit/blog/tags","slug":"https://sabiao.github.io/sit/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"https://sabiao.github.io/sit/blog/tags/docusaurus"}')}}]);
